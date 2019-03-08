@@ -1,0 +1,19 @@
+body {
+    background-color: brown;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+.styledFont {
+    color: green;
+    text-align: left;
+    font-size: large;
+}
+
+#styledImage{
+    border: 5px solid orange;
+
+}
