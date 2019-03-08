@@ -10,4 +10,14 @@ h1, p {
     color: #777;
     background-color:#ebebeb;
 }
-test 
+
+header, nav, section, aside, footer {
+    background-color: #ebebeb;
+    width: '495px';
+}
+
+article{
+    color: #777;
+    background-color: #ebebeb;
+    width: '495px';
+}
