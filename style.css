@@ -1,19 +1,12 @@
 body {
-    background-color: brown;
+    background-color: #777;
+    font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    color: #777;
+    width: '960px';
+    font-size: '18px';
 }
 
-h1 {
-    text-align: center;
-
-}
-
-.styledFont {
-    color: green;
-    text-align: left;
-    font-size: large;
-}
-
-#styledImage{
-    border: 5px solid orange;
-
+h1, p {
+    color: #777;
+    background-color:#ebebeb;
 }
